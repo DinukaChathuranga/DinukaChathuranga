@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Dinuka Chathuranga</h1>
 <h3 align="center">A Automation and IOT Engineer from Sri Lanka</h3>
 <img align="right" alt="Automation" width="400" src="https://iconscout.com/lottie/robotic-process-automation-4798743">
