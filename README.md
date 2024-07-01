@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQGtuPf8jSKA2w/profile-displaybackgroundimage-shrink_350_1400/0/1681833330478?e=1695859200&v=beta&t=x-lZeK_W2RF1H7bp_VRefpGz-rv2f4zXIegQ24PkvUE)]
 <h1 align="center">Hi 👋, I'm Dinuka Chathuranga</h1>
-<h3 align="center">A Fullstack Engineer from Sri Lanka</h3>
+<h3 align="center">A Software Engineer with IoT and Robotics Focus in Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinukachathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="dinukachathuranga" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinukachathuranga" alt="dinukachathuranga" /></a> </p>
@@ -9,11 +9,11 @@
 <p align="left"> <a href="https://twitter.com/mdchathuranga1" target="blank"><img src="https://img.shields.io/twitter/follow/mdchathuranga1?logo=twitter&style=for-the-badge" alt="mdchathuranga1" /></a> </p>
 
 
-- 🔭 I’m currently working on **Smart Home Energy Management Project**
+- 🔭 I’m currently working on **Gymnasium Management Web Based Application**
 
-- 🌱 I’m currently learning **Tensorflow, Pytorch, Android Studio**
+- 🌱 I’m currently learning **ReactJs,SpringBoot,Docker**
 
-- 💬 Ask me about **React, Arduino, .NET, Python, Java**
+- 💬 Ask me about **IoT, Arduino, .NET, Python, Java**
 
 - 📫 How to reach me **DinukaCw@gmail.com**
 
