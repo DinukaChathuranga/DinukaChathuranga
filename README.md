@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGtuPf8jSKA2w/profile-displaybackgroundimage-shrink_350_1400/0/1681833330478?e=1695859200&v=beta&t=x-lZeK_W2RF1H7bp_VRefpGz-rv2f4zXIegQ24PkvUE)]
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQGtuPf8jSKA2w/profile-displaybackgroundimage-shrink_350_1400/0/1681833334169?e=1725494400&v=beta&t=eMfJhVDDqF45AFMnhYGZMXl6Y_7jStwHoCLlKlL_Ap8)]
 <h1 align="center">Hi 👋, I'm Dinuka Chathuranga</h1>
 <h3 align="center">A Software Engineer with IoT and Robotics Focus in Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinukachathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="dinukachathuranga" /> </p>
